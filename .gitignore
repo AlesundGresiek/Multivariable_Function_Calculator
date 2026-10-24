@@ -1,0 +1,14 @@
+# CMake generated files
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Compiled executables and object files
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.pdb
